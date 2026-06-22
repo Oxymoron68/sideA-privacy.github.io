@@ -1,3 +1,7 @@
+---
+title: Datenschutzerklärung — Side A
+---
+
 # Privacy Policy — Side A
 
 **Last updated:** June 2026  

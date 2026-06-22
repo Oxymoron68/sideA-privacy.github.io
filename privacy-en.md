@@ -48,4 +48,4 @@ We reserve the right to update this privacy policy as needed. The current versio
 ## 6. Contact
 
 For questions regarding this privacy policy:  
-sight-a@icloud.com
+sight.a@icloud.com

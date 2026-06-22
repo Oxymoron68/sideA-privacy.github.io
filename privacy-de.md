@@ -1,3 +1,7 @@
+---
+title: Datenschutzerklärung — Side A
+---
+
 # Datenschutzerklärung — Side A
 
 **Stand:** Juni 2026  

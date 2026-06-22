@@ -48,4 +48,4 @@ Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf zu aktualisieren. D
 ## 6. Kontakt
 
 Bei Fragen zur Datenschutzerklärung:  
-sight-a@icloud.com
+sight.a@icloud.com
